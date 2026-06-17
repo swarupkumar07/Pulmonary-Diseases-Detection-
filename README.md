@@ -18,3 +18,5 @@ An interface displaying real-time spectrograms and waveforms, as well as real-ti
 Here are some technologies we'll be using: Python, Librosa, Pandas, TensorFlow, Jupyter Notebook, Tkinter, PyQt or Streamlit, and GitHub.
 
 Eventually, the cough sound analysis tool will be useful for healthcare practitioners to identify or confirm diagnoses of lung diseases and be a useful tool in telemedicine.
+
+--end--
