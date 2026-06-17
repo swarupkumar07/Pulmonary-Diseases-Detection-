@@ -19,4 +19,4 @@ Here are some technologies we'll be using: Python, Librosa, Pandas, TensorFlow, 
 
 Eventually, the cough sound analysis tool will be useful for healthcare practitioners to identify or confirm diagnoses of lung diseases and be a useful tool in telemedicine.
 
---end--
+--end-- 
